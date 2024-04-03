@@ -2,7 +2,7 @@ body {
     color: white;
     margin: 0px;
     padding: 0px;
-    background: url('./img/bg.JPG');
+    background: url('img/bg.JPG');
 }
 
 .left {
